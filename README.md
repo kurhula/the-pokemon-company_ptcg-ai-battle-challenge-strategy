@@ -2,3 +2,65 @@
 
 Analyze data and agentic play supporting the Pokémon Trading Card Game
 
+## Overview
+
+- This Strategy Category competition aims to explore methods for enhancing the performance of AI Training Agents with the Pokémon Trading Card Game (TCG). 
+- Participants are invited to share the ideas and approaches behind their AI Training Agents, focusing on systems where dynamic gameplay conditions are key factors for success.
+
+## Description
+
+- *Note*: Participation in the Simulation Category of the Pokémon TCG AI Battle Challenge is required to enter this Strategy Category competition. 
+- Participants must enter in both the Simulation Category and Strategy Category for a complete submission. 
+- Please refer to the Competition page for full details.
+- The Pokémon Trading Card Game is a strategic game where players may face many strategic considerations. 
+- The Strategy Category competition runs alongside the Simulation Category competition and focuses on analyzing, explaining, and documenting the systems and strategies developed for battle.
+- While the Simulation Category competition evaluates an AI Training Agent’s win rate and performance, the Strategy Category competition evaluates the participant’s strategic logic behind its AI Training Agent. 
+- Why was a particular strategy chosen? 
+- What hypotheses were tested? 
+- How does the design reflect an understanding of the game’s mechanics and structure?
+- Building AI Training Agents for a card game requires more considerations than just optimization. 
+- Participants will need to consider intentional deck construction, various strategies, strength across matchups, and the ability to keep winning. 
+- In this Strategy Category competition, participants are expected to clearly communicate these elements in a way that others can understand and learn from.
+- High leaderboard ranking may provide an advantage in performance scoring, but it does not guarantee a strong result in the Strategy Category. 
+- Participants in middle or lower tiers of the competition can still achieve high overall scores through deep analysis, originality, and well-structured reporting. 
+- This Strategy Category competition exists to analyze, to structure, and to share the insights behind the Pokémon TCG AI Battle Challenge submissions. 
+- By sharing the reasoning behind their approach, participants contribute to a deeper understanding of strategic learning when dealing with unknowns.
+
+## Timeline
+- *Start Date*: June 16, 2026 11:00 am UTC. 
+- *Entry Deadline*: September 6, 2026.
+    - You must accept the competition rules before this date in order to compete. 
+- *Team Merger Deadline*: September 6, 2026. 
+    - This is the last day participants may join or merge teams. 
+- *Final Submission Deadline*: September 13, 2026. 
+- *Judging Period*: September 14, 2026 - October 11, 2026.
+- *Anticipated Results Announcement*: TBD. 
+- *Note* - Judging period subject to change based on the number of submissions received. 
+- All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise noted. 
+- The competition organizers reserve the right to update the contest timeline if they deem it necessary.
+
+## Submission Requirements
+- A valid submission must contain the following:
+    - Kaggle Writeup
+        - Media Gallery (optional)
+- Your final Submission must be made prior to the deadline. 
+- Any un-submitted or draft Writeups by the competition deadline will not be considered by the Judges.
+- To create a new Writeup, click on the "New Writeup" button here 
+- After you have saved your Writeup, you should see a "Submit" button in the top right corner. 
+- *Note*: If you attach a private Kaggle Resource to your public Kaggle Writeup, your private Resource will automatically be made public after the deadline.
+
+### Kaggle Writeup
+- The Kaggle Writeup serves as your project report. 
+- This should include a title, subtitle, and a detailed analysis of your submission. 
+- You must select a Track for your Writeup in order to submit. 
+- Your Writeup should not exceed 2000 words. 
+- Submissions over this limit may be subject to penalty. 
+- The below assets must be attached to the Writeup to be eligible. 
+- Other assets may optionally be attached like code repositories, Kaggle notebooks, or external links.
+
+#### Media Gallery (optional) 
+- This is where you can attach any images and/or videos associated with your submission. 
+- Ensure all content aligns with the license agreement noted in the Competition Rules. 
+- Submissions containing images that violate the license granted for Pokémon Elements will not be evaluated and are subject to disqualification.
+
+
