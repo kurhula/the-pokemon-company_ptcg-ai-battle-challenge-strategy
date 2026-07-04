@@ -61,6 +61,29 @@ Analyze data and agentic play supporting the Pokémon Trading Card Game
 #### Media Gallery (optional) 
 - This is where you can attach any images and/or videos associated with your submission. 
 - Ensure all content aligns with the license agreement noted in the Competition Rules. 
-- Submissions containing images that violate the license granted for Pokémon Elements will not be evaluated and are subject to disqualification.
+- *Submissions containing images that violate the license granted for Pokémon Elements will not be evaluated and are subject to disqualification.*
 
+## Evaluation
+- Category | Description | Weight
+- Model Score
+    - How clearly is the chosen approach articulated, and how well is the rationale for the model and methods explained? 
+    - How original and technically sound is the proposed approach? 
+    - How consistently does the model perform under repeated matches and stable conditions? 
+    - How well does the strategy avoid over-reliance on specific initial states, matchups, or situational advantages? 
+    - Performance within the competition track. 
+    - 70%
+- Deck Score 
+    - How clearly is the deck concept articulated, and how well does it align with the intended strategy? 
+    - How effectively are the key cards selected and utilized to support the deck’s overall game plan? 
+    - 20%
+- Report Score 
+    - How logically and clearly is the report structured and written? 
+    - How effectively are figures, charts, tables, or other visual elements used to support the explanation? 
+    - 10%
+
+Tracks and Awards
+- Main Track 
+    - $240,000
+- Eight (8) Finalists will receive $30,000 each. 
+- Finalists may also be invited to an in-person tournament, hosted by The Pokémon Company in Tokyo, Japan, held TBD.
 
